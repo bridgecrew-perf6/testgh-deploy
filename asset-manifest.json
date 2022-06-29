@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yellareddy-m/testgh-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/yellareddy-m/testgh-deploy/static/js/main.d35acc50.js",
+    "static/js/787.81caa296.chunk.js": "/yellareddy-m/testgh-deploy/static/js/787.81caa296.chunk.js",
+    "static/media/logo.svg": "/yellareddy-m/testgh-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yellareddy-m/testgh-deploy/index.html",
+    "main.073c9b0a.css.map": "/yellareddy-m/testgh-deploy/static/css/main.073c9b0a.css.map",
+    "main.d35acc50.js.map": "/yellareddy-m/testgh-deploy/static/js/main.d35acc50.js.map",
+    "787.81caa296.chunk.js.map": "/yellareddy-m/testgh-deploy/static/js/787.81caa296.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d35acc50.js"
+  ]
+}
